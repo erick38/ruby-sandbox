@@ -1,0 +1,2 @@
+b = 'goodbye'
+pp b
